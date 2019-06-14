@@ -41,12 +41,12 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "Machine Learning"
+  tag = "Machine Learning"
 
 [[filter]]
-  name = "Other"
-  tag = "Demo"
+  name = "Numerical Simulations"
+  tag = "Numerical Simulations"
 
 +++
 
