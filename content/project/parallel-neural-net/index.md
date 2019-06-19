@@ -1,5 +1,5 @@
 +++
-title = "Parallel Nerual Net Training"
+title = "Parallel Neural Net Training"
 date = 2019-06-13T13:25:09-07:00
 draft = false
 
