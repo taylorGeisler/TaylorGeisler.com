@@ -8,7 +8,7 @@ draft = false
 tags = ["Machine Learning"]
 
 # Project summary to display on homepage.
-summary = "Used computer vision to classify fish species from fishing vessal images."
+summary = "Used convolutional neural network to classify fish species from fishing vessel images."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
