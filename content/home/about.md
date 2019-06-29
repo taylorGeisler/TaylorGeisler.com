@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Machine Learning",
     "Data Science",
-    "Computer Vision"
+    "Numerical Methods"
   ]
 
 # List your qualifications (such as academic degrees).

@@ -19,7 +19,7 @@ summary = "Wrote code to train a neural network for performing computer vision t
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "files/cnn_project.pdf"
 
 # Links (optional).
 url_pdf = ""
