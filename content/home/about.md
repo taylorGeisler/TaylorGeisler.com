@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D. + Masters, Chemical Engineering"
+  course = "Ph.D., Chemical Engineering"
   institution = "Stanford University"
   year = 2019
 
